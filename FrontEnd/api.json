@@ -1,0 +1,1498 @@
+[
+    {
+        "_id": "66d4a7b01ddbeac8997dd354",
+        "name": "SalesForce Project Management",
+        "provider": {
+            "_id": "66d4a1401ddbeac8997dd2f7",
+            "name": "Salesforce"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1999,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 3,
+        "reviews": [
+            {
+                "user": "66cc9448443d6e979d60d438",
+                "rating": 3,
+                "comment": "good",
+                "_id": "66d4ae6e1ddbeac8997dd410",
+                "createdAt": "2024-09-01T18:11:58.153Z"
+            }
+        ],
+        "createdAt": "2024-09-01T17:43:12.632Z",
+        "updatedAt": "2024-09-01T18:11:58.157Z",
+        "__v": 1
+    },
+    {
+        "_id": "66d4a7d31ddbeac8997dd356",
+        "name": "MicroSoft 365 Project Management",
+        "provider": {
+            "_id": "66d4a1661ddbeac8997dd2fb",
+            "name": "Microsoft 365"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 2999,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:43:47.419Z",
+        "updatedAt": "2024-09-01T17:43:47.419Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a7ed1ddbeac8997dd358",
+        "name": "Google Workspace Project Management",
+        "provider": {
+            "_id": "66d4a1881ddbeac8997dd2ff",
+            "name": "Google Workspace"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1299,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:44:13.310Z",
+        "updatedAt": "2024-09-01T17:44:13.311Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a8001ddbeac8997dd35a",
+        "name": "Zendesk Project Management",
+        "provider": {
+            "_id": "66d4a1aa1ddbeac8997dd303",
+            "name": "Zendesk"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1599,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:44:32.158Z",
+        "updatedAt": "2024-09-01T17:44:32.159Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a81d1ddbeac8997dd35c",
+        "name": "HubSpot Project Management",
+        "provider": {
+            "_id": "66d4a1cf1ddbeac8997dd307",
+            "name": "HubSpot"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1799,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:45:01.382Z",
+        "updatedAt": "2024-09-01T17:45:01.382Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a82f1ddbeac8997dd35e",
+        "name": "Shopify Project Management",
+        "provider": {
+            "_id": "66d4a1f01ddbeac8997dd30b",
+            "name": "Shopify"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1399,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:45:19.738Z",
+        "updatedAt": "2024-09-01T17:45:19.738Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a83d1ddbeac8997dd360",
+        "name": "Slack Project Management",
+        "provider": {
+            "_id": "66d4a2141ddbeac8997dd30f",
+            "name": "Slack"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1799,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:45:33.449Z",
+        "updatedAt": "2024-09-01T17:45:33.450Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a84f1ddbeac8997dd362",
+        "name": "Dropbox Project Management",
+        "provider": {
+            "_id": "66d4a2381ddbeac8997dd313",
+            "name": "Dropbox"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 999,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:45:51.826Z",
+        "updatedAt": "2024-09-01T17:45:51.826Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a8741ddbeac8997dd364",
+        "name": "Zoom Project Management",
+        "provider": {
+            "_id": "66d4a25c1ddbeac8997dd317",
+            "name": "Zoom"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 699,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:46:28.183Z",
+        "updatedAt": "2024-09-01T17:46:28.183Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a8861ddbeac8997dd366",
+        "name": "Asana Project Management",
+        "provider": {
+            "_id": "66d4a2881ddbeac8997dd31b",
+            "name": "Asana"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 899,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:46:46.639Z",
+        "updatedAt": "2024-09-01T17:46:46.639Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a89d1ddbeac8997dd368",
+        "name": "GitHub Project Management",
+        "provider": {
+            "_id": "66d4a2ac1ddbeac8997dd31f",
+            "name": "GitHub"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1499,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:47:09.961Z",
+        "updatedAt": "2024-09-01T17:47:09.962Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a8aa1ddbeac8997dd36a",
+        "name": "AWS Project Management",
+        "provider": {
+            "_id": "66d4a2cc1ddbeac8997dd323",
+            "name": "AWS"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1599,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:47:22.495Z",
+        "updatedAt": "2024-09-01T17:47:22.495Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a8c21ddbeac8997dd36c",
+        "name": "QuickBooks Project Management",
+        "provider": {
+            "_id": "66d4a2ee1ddbeac8997dd327",
+            "name": "QuickBooks Online"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 1599,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:47:46.290Z",
+        "updatedAt": "2024-09-01T17:47:46.290Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a8f01ddbeac8997dd36e",
+        "name": "Stripe Project Management",
+        "provider": {
+            "_id": "66d4a34a1ddbeac8997dd32d",
+            "name": "Stripe"
+        },
+        "description": "Our Project Management tool helps teams plan, execute, and oversee projects with efficiency. It features task assignment, progress tracking, collaboration tools, and resource management. Manage project timelines, deadlines, and automate workflows to ensure projects are completed on time and within budget.",
+        "category": "Project Management",
+        "price": 2199,
+        "features": [
+            "Task assignments",
+            "Deadline tracking",
+            "Project milestones",
+            "Progress reports",
+            "Integrations with calendars"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:48:32.383Z",
+        "updatedAt": "2024-09-01T17:48:32.383Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9741ddbeac8997dd372",
+        "name": "Salesforce Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a1401ddbeac8997dd2f7",
+            "name": "Salesforce"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2999,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:50:44.805Z",
+        "updatedAt": "2024-09-01T17:50:44.806Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9961ddbeac8997dd374",
+        "name": "Microsoft 365 Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a1661ddbeac8997dd2fb",
+            "name": "Microsoft 365"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2899,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:51:18.961Z",
+        "updatedAt": "2024-09-01T17:51:18.962Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9b01ddbeac8997dd376",
+        "name": "Google Workspace 365 Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a1881ddbeac8997dd2ff",
+            "name": "Google Workspace"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2799,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:51:44.659Z",
+        "updatedAt": "2024-09-01T17:51:44.659Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9c21ddbeac8997dd378",
+        "name": "Zendesk 365 Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a1aa1ddbeac8997dd303",
+            "name": "Zendesk"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2699,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:52:02.549Z",
+        "updatedAt": "2024-09-01T17:52:02.549Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9ce1ddbeac8997dd37a",
+        "name": "HubSpot 365 Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a1cf1ddbeac8997dd307",
+            "name": "HubSpot"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2599,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:52:14.395Z",
+        "updatedAt": "2024-09-01T17:52:14.398Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9e11ddbeac8997dd37c",
+        "name": "Shopify Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a1f01ddbeac8997dd30b",
+            "name": "Shopify"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2499,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:52:33.102Z",
+        "updatedAt": "2024-09-01T17:52:33.102Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4a9fc1ddbeac8997dd37e",
+        "name": "Slack Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a2141ddbeac8997dd30f",
+            "name": "Slack"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2399,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:53:00.936Z",
+        "updatedAt": "2024-09-01T17:53:00.937Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa231ddbeac8997dd380",
+        "name": "Dropbox Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a2381ddbeac8997dd313",
+            "name": "Dropbox"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2299,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:53:39.990Z",
+        "updatedAt": "2024-09-01T17:53:39.990Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa2f1ddbeac8997dd382",
+        "name": "Zoom Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a25c1ddbeac8997dd317",
+            "name": "Zoom"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2199,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:53:51.877Z",
+        "updatedAt": "2024-09-01T17:53:51.877Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa3c1ddbeac8997dd384",
+        "name": "Asana Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a2881ddbeac8997dd31b",
+            "name": "Asana"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 2099,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:54:04.631Z",
+        "updatedAt": "2024-09-01T17:54:04.631Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa4a1ddbeac8997dd386",
+        "name": "GitHub Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a2ac1ddbeac8997dd31f",
+            "name": "GitHub"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 1999,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:54:18.942Z",
+        "updatedAt": "2024-09-01T17:54:18.942Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa641ddbeac8997dd388",
+        "name": "AWS Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a2cc1ddbeac8997dd323",
+            "name": "AWS"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 1899,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:54:44.120Z",
+        "updatedAt": "2024-09-01T17:54:44.121Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa791ddbeac8997dd38a",
+        "name": "QuickBooks Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a2ee1ddbeac8997dd327",
+            "name": "QuickBooks Online"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 1799,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:55:05.841Z",
+        "updatedAt": "2024-09-01T17:55:05.841Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aa8a1ddbeac8997dd38c",
+        "name": "Stripe Customer Relationship Management",
+        "provider": {
+            "_id": "66d4a34a1ddbeac8997dd32d",
+            "name": "Stripe"
+        },
+        "description": "Our Customer Relationship Management (CRM) system is designed to streamline interactions with customers. It provides tools for tracking customer interactions, managing sales pipelines, and automating marketing and customer service tasks. Enhance customer relationships and drive business growth with features for contact management, sales opportunities, and analytics.",
+        "category": "CRM",
+        "price": 1699,
+        "features": [
+            "Lead management",
+            "Sales forecasting",
+            "Customer segmentation",
+            "Automation workflows",
+            "Reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:55:22.466Z",
+        "updatedAt": "2024-09-01T17:55:22.466Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aad81ddbeac8997dd395",
+        "name": "Salesforce Human Resource",
+        "provider": {
+            "_id": "66d4a1401ddbeac8997dd2f7",
+            "name": "Salesforce"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 399,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:56:40.303Z",
+        "updatedAt": "2024-09-01T17:56:40.303Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aae61ddbeac8997dd397",
+        "name": "Microsoft Human Resource",
+        "provider": {
+            "_id": "66d4a1661ddbeac8997dd2fb",
+            "name": "Microsoft 365"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 499,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:56:54.654Z",
+        "updatedAt": "2024-09-01T17:56:54.655Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aaf31ddbeac8997dd399",
+        "name": "Google Human Resource",
+        "provider": {
+            "_id": "66d4a1881ddbeac8997dd2ff",
+            "name": "Google Workspace"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 599,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:57:07.829Z",
+        "updatedAt": "2024-09-01T17:57:07.829Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab081ddbeac8997dd39b",
+        "name": "Zendesk Human Resource",
+        "provider": {
+            "_id": "66d4a1aa1ddbeac8997dd303",
+            "name": "Zendesk"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 699,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:57:28.414Z",
+        "updatedAt": "2024-09-01T17:57:28.415Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab151ddbeac8997dd39d",
+        "name": "HubSpot Human Resource",
+        "provider": {
+            "_id": "66d4a1cf1ddbeac8997dd307",
+            "name": "HubSpot"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 799,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:57:41.673Z",
+        "updatedAt": "2024-09-01T17:57:41.673Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab221ddbeac8997dd39f",
+        "name": "Shopify Human Resource",
+        "provider": {
+            "_id": "66d4a1f01ddbeac8997dd30b",
+            "name": "Shopify"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 899,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:57:54.776Z",
+        "updatedAt": "2024-09-01T17:57:54.776Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab2d1ddbeac8997dd3a1",
+        "name": "Slack Human Resource",
+        "provider": {
+            "_id": "66d4a2141ddbeac8997dd30f",
+            "name": "Slack"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 999,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:58:05.135Z",
+        "updatedAt": "2024-09-01T17:58:05.136Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab4d1ddbeac8997dd3a3",
+        "name": "Dropbox Human Resource",
+        "provider": {
+            "_id": "66d4a2381ddbeac8997dd313",
+            "name": "Dropbox"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1099,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:58:37.296Z",
+        "updatedAt": "2024-09-01T17:58:37.297Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab5a1ddbeac8997dd3a5",
+        "name": "Zoom Human Resource",
+        "provider": {
+            "_id": "66d4a25c1ddbeac8997dd317",
+            "name": "Zoom"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1199,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:58:50.407Z",
+        "updatedAt": "2024-09-01T17:58:50.407Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab661ddbeac8997dd3a7",
+        "name": "Asana Human Resource",
+        "provider": {
+            "_id": "66d4a2881ddbeac8997dd31b",
+            "name": "Asana"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1299,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:59:02.814Z",
+        "updatedAt": "2024-09-01T17:59:02.814Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab741ddbeac8997dd3a9",
+        "name": "GitHub Human Resource",
+        "provider": {
+            "_id": "66d4a2ac1ddbeac8997dd31f",
+            "name": "GitHub"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1399,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:59:16.211Z",
+        "updatedAt": "2024-09-01T17:59:16.212Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ab7e1ddbeac8997dd3ab",
+        "name": "AWS Human Resource",
+        "provider": {
+            "_id": "66d4a2cc1ddbeac8997dd323",
+            "name": "AWS"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1499,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T17:59:26.701Z",
+        "updatedAt": "2024-09-01T17:59:26.701Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aba21ddbeac8997dd3ad",
+        "name": "QuickBooks Human Resource",
+        "provider": {
+            "_id": "66d4a2ee1ddbeac8997dd327",
+            "name": "QuickBooks Online"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1599,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:00:02.333Z",
+        "updatedAt": "2024-09-01T18:00:02.333Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4abaf1ddbeac8997dd3af",
+        "name": "Stripe Human Resource",
+        "provider": {
+            "_id": "66d4a34a1ddbeac8997dd32d",
+            "name": "Stripe"
+        },
+        "description": "Our HR (Human Resources) software simplifies managing employee-related processes. It includes features for recruitment, onboarding, performance management, payroll, benefits administration, and compliance. Improve administrative efficiency and support employee engagement with comprehensive HR tools.",
+        "category": "HR",
+        "price": 1699,
+        "features": [
+            "Employee profiles",
+            "Performance reviews",
+            "Time-off requests",
+            "Benefits administration",
+            "HR reporting"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:00:15.139Z",
+        "updatedAt": "2024-09-01T18:00:15.140Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4abfb1ddbeac8997dd3b8",
+        "name": "Salesforce Marketing Automation",
+        "provider": {
+            "_id": "66d4a1401ddbeac8997dd2f7",
+            "name": "Salesforce"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3999,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:01:31.792Z",
+        "updatedAt": "2024-09-01T18:01:31.793Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac091ddbeac8997dd3ba",
+        "name": "Microsoft Marketing Automation",
+        "provider": {
+            "_id": "66d4a1661ddbeac8997dd2fb",
+            "name": "Microsoft 365"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3899,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:01:45.583Z",
+        "updatedAt": "2024-09-01T18:01:45.583Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac141ddbeac8997dd3bc",
+        "name": "GoogleMarketing Automation",
+        "provider": {
+            "_id": "66d4a1881ddbeac8997dd2ff",
+            "name": "Google Workspace"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3799,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:01:56.173Z",
+        "updatedAt": "2024-09-01T18:01:56.174Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac201ddbeac8997dd3be",
+        "name": "Zendesk Marketing Automation",
+        "provider": {
+            "_id": "66d4a1aa1ddbeac8997dd303",
+            "name": "Zendesk"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3699,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:02:08.276Z",
+        "updatedAt": "2024-09-01T18:02:08.276Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac2e1ddbeac8997dd3c0",
+        "name": "HubSpot Marketing Automation",
+        "provider": {
+            "_id": "66d4a1cf1ddbeac8997dd307",
+            "name": "HubSpot"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3599,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:02:22.330Z",
+        "updatedAt": "2024-09-01T18:02:22.331Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac3c1ddbeac8997dd3c2",
+        "name": "Shopify Marketing Automation",
+        "provider": {
+            "_id": "66d4a1f01ddbeac8997dd30b",
+            "name": "Shopify"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3499,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:02:36.995Z",
+        "updatedAt": "2024-09-01T18:02:36.995Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac491ddbeac8997dd3c4",
+        "name": "Slack Marketing Automation",
+        "provider": {
+            "_id": "66d4a2141ddbeac8997dd30f",
+            "name": "Slack"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3399,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:02:49.528Z",
+        "updatedAt": "2024-09-01T18:02:49.528Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac551ddbeac8997dd3c6",
+        "name": "Dropbox Marketing Automation",
+        "provider": {
+            "_id": "66d4a2381ddbeac8997dd313",
+            "name": "Dropbox"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3299,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:03:01.130Z",
+        "updatedAt": "2024-09-01T18:03:01.130Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac5f1ddbeac8997dd3c8",
+        "name": "Zoom Marketing Automation",
+        "provider": {
+            "_id": "66d4a25c1ddbeac8997dd317",
+            "name": "Zoom"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3199,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:03:11.876Z",
+        "updatedAt": "2024-09-01T18:03:11.876Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac6e1ddbeac8997dd3ca",
+        "name": "Asana Marketing Automation",
+        "provider": {
+            "_id": "66d4a2881ddbeac8997dd31b",
+            "name": "Asana"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 3099,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:03:26.816Z",
+        "updatedAt": "2024-09-01T18:03:26.816Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac791ddbeac8997dd3cc",
+        "name": "GitHub Marketing Automation",
+        "provider": {
+            "_id": "66d4a2ac1ddbeac8997dd31f",
+            "name": "GitHub"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 2999,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:03:37.987Z",
+        "updatedAt": "2024-09-01T18:03:37.987Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac851ddbeac8997dd3ce",
+        "name": "AWS Marketing Automation",
+        "provider": {
+            "_id": "66d4a2cc1ddbeac8997dd323",
+            "name": "AWS"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 2899,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:03:49.357Z",
+        "updatedAt": "2024-09-01T18:03:49.357Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ac921ddbeac8997dd3d0",
+        "name": "QuickBooks Marketing Automation",
+        "provider": {
+            "_id": "66d4a2ee1ddbeac8997dd327",
+            "name": "QuickBooks Online"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 2799,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:04:02.353Z",
+        "updatedAt": "2024-09-01T18:04:02.354Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4aca11ddbeac8997dd3d2",
+        "name": "Stripe Marketing Automation",
+        "provider": {
+            "_id": "66d4a34a1ddbeac8997dd32d",
+            "name": "Stripe"
+        },
+        "description": "Our Marketing Automation platform automates marketing tasks and workflows, optimizing campaigns across email, social media, and websites. It offers features for campaign management, lead scoring, customer segmentation, and analytics to effectively target your marketing efforts and measure their impact.",
+        "category": "Marketing Automation",
+        "price": 2699,
+        "features": [
+            "Email templates",
+            "Campaign automation",
+            "Audience segmentation",
+            "A/B testing",
+            "Performance analytics"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:04:17.071Z",
+        "updatedAt": "2024-09-01T18:04:17.071Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ad031ddbeac8997dd3db",
+        "name": "Salesforce Analytics and Business Intelligence",
+        "provider": {
+            "_id": "66d4a1401ddbeac8997dd2f7",
+            "name": "Salesforce"
+        },
+        "description": "Our Analytics tool focuses on analyzing and visualizing data to provide actionable insights. Track key metrics, generate detailed reports, and create interactive data visualizations. With features for data blending, real-time analysis, and customizable reports, make informed decisions based on comprehensive data analysis.",
+        "category": "Analytics and Business Intelligence",
+        "price": 6999,
+        "features": [
+            "Text analysis",
+            "Sentiment analysis",
+            "Language translation",
+            "Named entity recognition",
+            "Customizable models"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:05:55.492Z",
+        "updatedAt": "2024-09-01T18:05:55.492Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ad101ddbeac8997dd3dd",
+        "name": "Microsoft Analytics and Business Intelligence",
+        "provider": {
+            "_id": "66d4a1661ddbeac8997dd2fb",
+            "name": "Microsoft 365"
+        },
+        "description": "Our Analytics tool focuses on analyzing and visualizing data to provide actionable insights. Track key metrics, generate detailed reports, and create interactive data visualizations. With features for data blending, real-time analysis, and customizable reports, make informed decisions based on comprehensive data analysis.",
+        "category": "Analytics and Business Intelligence",
+        "price": 6899,
+        "features": [
+            "Text analysis",
+            "Sentiment analysis",
+            "Language translation",
+            "Named entity recognition",
+            "Customizable models"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:06:08.132Z",
+        "updatedAt": "2024-09-01T18:06:08.132Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ad1a1ddbeac8997dd3df",
+        "name": "Google Analytics and Business Intelligence",
+        "provider": {
+            "_id": "66d4a1881ddbeac8997dd2ff",
+            "name": "Google Workspace"
+        },
+        "description": "Our Analytics tool focuses on analyzing and visualizing data to provide actionable insights. Track key metrics, generate detailed reports, and create interactive data visualizations. With features for data blending, real-time analysis, and customizable reports, make informed decisions based on comprehensive data analysis.",
+        "category": "Analytics and Business Intelligence",
+        "price": 6799,
+        "features": [
+            "Text analysis",
+            "Sentiment analysis",
+            "Language translation",
+            "Named entity recognition",
+            "Customizable models"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:06:18.231Z",
+        "updatedAt": "2024-09-01T18:06:18.232Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ad261ddbeac8997dd3e1",
+        "name": "Zendesk Analytics and Business Intelligence",
+        "provider": {
+            "_id": "66d4a1aa1ddbeac8997dd303",
+            "name": "Zendesk"
+        },
+        "description": "Our Analytics tool focuses on analyzing and visualizing data to provide actionable insights. Track key metrics, generate detailed reports, and create interactive data visualizations. With features for data blending, real-time analysis, and customizable reports, make informed decisions based on comprehensive data analysis.",
+        "category": "Analytics and Business Intelligence",
+        "price": 6899,
+        "features": [
+            "Text analysis",
+            "Sentiment analysis",
+            "Language translation",
+            "Named entity recognition",
+            "Customizable models"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:06:30.740Z",
+        "updatedAt": "2024-09-01T18:06:30.741Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ad381ddbeac8997dd3e3",
+        "name": "HubSpot Analytics and Business Intelligence",
+        "provider": {
+            "_id": "66d4a1cf1ddbeac8997dd307",
+            "name": "HubSpot"
+        },
+        "description": "Our Analytics tool focuses on analyzing and visualizing data to provide actionable insights. Track key metrics, generate detailed reports, and create interactive data visualizations. With features for data blending, real-time analysis, and customizable reports, make informed decisions based on comprehensive data analysis.",
+        "category": "Analytics and Business Intelligence",
+        "price": 6799,
+        "features": [
+            "Text analysis",
+            "Sentiment analysis",
+            "Language translation",
+            "Named entity recognition",
+            "Customizable models"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:06:48.421Z",
+        "updatedAt": "2024-09-01T18:06:48.422Z",
+        "__v": 0
+    },
+    {
+        "_id": "66d4ad471ddbeac8997dd3e5",
+        "name": "Shopify Analytics and Business Intelligence",
+        "provider": {
+            "_id": "66d4a1f01ddbeac8997dd30b",
+            "name": "Shopify"
+        },
+        "description": "Our Analytics tool focuses on analyzing and visualizing data to provide actionable insights. Track key metrics, generate detailed reports, and create interactive data visualizations. With features for data blending, real-time analysis, and customizable reports, make informed decisions based on comprehensive data analysis.",
+        "category": "Analytics and Business Intelligence",
+        "price": 6699,
+        "features": [
+            "Text analysis",
+            "Sentiment analysis",
+            "Language translation",
+            "Named entity recognition",
+            "Customizable models"
+        ],
+        "image": "https://via.placeholder.com/140",
+        "averageRating": 0,
+        "reviews": [],
+        "createdAt": "2024-09-01T18:07:03.769Z",
+        "updatedAt": "2024-09-01T18:07:03.770Z",
+        "__v": 0
+    },
+]
